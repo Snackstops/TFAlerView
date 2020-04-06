@@ -11,10 +11,12 @@
 NS_ASSUME_NONNULL_BEGIN
 
 typedef void(^TFAlerViewBlock)(BOOL isOPEN);
+//typedef void(^TFAlerViewENDBlock)(BOOL isOPEN_END);
 
 
 @interface UIViewController (TFAlerView)<TFAlerView_AlertViewDelegate>
 @property (nonatomic,copy) TFAlerViewBlock isOPEN;
+//@property (nonatomic,copy) TFAlerViewENDBlock isOPEN_END;
 @property (nonatomic, strong) TFAlerView_AlertView   *tipV;
 
 - (void)initTFAlertView;

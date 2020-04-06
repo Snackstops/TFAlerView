@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		TEItyN7ZFxEg+nBAUToqr5lIraY=
+		jsYXlXCWtl9meJ/PBSEhmgfAfOU=
 		</data>
 		<key>Headers/NSString+TFAlerView_Toast.h</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Headers/UIViewController+TFAlerView.h</key>
 		<data>
-		b7wv54+yz2JL79Q6A4JMY6bJo5Q=
+		LA0NyYdi1snQz+RwTGmyUyQb1Po=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jYaBkqPFOA7oLNKtV16gUzAWduA=
+		fThg+jEbR0SgNfBPksdq9JAoCH4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TEItyN7ZFxEg+nBAUToqr5lIraY=
+			jsYXlXCWtl9meJ/PBSEhmgfAfOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			bC6y3wwJxgdZOs9NE1tTp2A8DokkLbphfUvMf+SBXnE=
+			J+hziC+lxcWXnoGVlCYFXqmY5NkTm0yMtZTwBcX/FVQ=
 			</data>
 		</dict>
 		<key>Headers/NSString+TFAlerView_Toast.h</key>
@@ -293,11 +293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b7wv54+yz2JL79Q6A4JMY6bJo5Q=
+			LA0NyYdi1snQz+RwTGmyUyQb1Po=
 			</data>
 			<key>hash2</key>
 			<data>
-			f5ttMR9MfRhYNJ5KHsp8BgKLkAtyY7JpEzCcZzAcUDY=
+			IIIWvtsSP8lRHpUGDSNoBMrrGdyOrBxDKccg/9lur+U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
