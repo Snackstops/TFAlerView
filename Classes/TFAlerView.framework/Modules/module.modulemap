@@ -1,0 +1,6 @@
+framework module TFAlerView {
+  umbrella header "TFAlerView.h"
+
+  export *
+  module * { export * }
+}
