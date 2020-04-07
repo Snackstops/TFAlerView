@@ -24,8 +24,8 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC 
-                          It can be easily realized from the top of the screen, the bottom of the screen and the middle of the screen pops up a notification. You can easily customize the pop-up View.
+  spec.description  = <<-DESC
+                      It can be easily realized from the top of the screen, the bottom of the screen and the middle of the screen pops up a notification. You can easily customize the pop-up View.
                    DESC
 
   spec.homepage     = "https://github.com/Snackstops/TFAlerView.git"
@@ -39,7 +39,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = { :type => "MIT", :file => "LICENSE" }   #开源协议
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -67,6 +67,7 @@ Pod::Spec.new do |spec|
   # spec.platform     = :ios
   # spec.platform     = :ios, "5.0"
   spec.platform     = :ios, "9.0"
+
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
   # spec.osx.deployment_target = "10.7"
@@ -91,9 +92,9 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.vendored_frameworks = "Classes/*.framework"
+  # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
-
+  spec.vendored_frameworks = "Classes/*.framework"
   # spec.public_header_files = "Classes/**/*.h"
 
 
@@ -119,7 +120,7 @@ Pod::Spec.new do |spec|
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
-  spec.frameworks = "UIKit","AVFoundation","AudioToolbox","SafariServices" #系统的framework
+  spec.frameworks = "UIKit","WebKit" #系统的framework
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
@@ -135,6 +136,4 @@ Pod::Spec.new do |spec|
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
   spec.dependency "JPush"
-
-
 end
