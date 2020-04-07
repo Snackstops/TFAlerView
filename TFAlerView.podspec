@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint SnackIMG.podspec' to ensure this is a
+#  Be sure to run `pod spec lint TFAlerView.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see https://guides.cocoapods.org/syntax/podspec.html
@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TFAlerView"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "A very powerful iOS message notifications and AlertView extensions."
 
   # This description is used to generate tags and improve search results.
@@ -39,7 +39,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = { :type => "MIT", :file => "LICENSE" }   #开源协议
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -54,9 +54,9 @@ Pod::Spec.new do |spec|
   #
 
   spec.author             = { "Snackstops" => "3041226105@qq.com" }
-  # Or just: spec.author    = "Snackstops"
-  # spec.authors            = { "Snackstops" => "3041226105@qq.com" }
-  # spec.social_media_url   = "https://twitter.com/Snackstops"
+  # Or just: spec.author    = "apple"
+  # spec.authors            = { "apple" => "" }
+  # spec.social_media_url   = "https://twitter.com/apple"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -65,6 +65,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
+  # spec.platform     = :ios, "5.0"
   spec.platform     = :ios, "9.0"
 
   #  When using multiple platforms
@@ -91,16 +92,9 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  #spec.source_files  = "SnackIMG", "Classes/*.framework/Headers/*.h"
-  #spec.resource = "Classes/*.framework"
+  # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  # spec.exclude_files = "Classes/Exclude"
   spec.vendored_frameworks = "Classes/*.framework"
-  #spec.vendored_frameworks = 'Classes/*.framework'
-  #spec.exclude_files = "Classes/*"
-
-  #spec.source_files = "照片选择器/HXPhotoPicker/**/*.{h,m}"
-  #spec.resources    = "照片选择器/HXPhotoPicker/Resource/*.{png,xib,nib,bundle}"
-  #spec.framework    = 'UIKit','Photos','PhotosUI'
-
   # spec.public_header_files = "Classes/**/*.h"
 
 
@@ -123,12 +117,12 @@ Pod::Spec.new do |spec|
   #  Link your library with frameworks, or libraries. Libraries do not include
   #  the lib prefix of their name.
   #
-  spec.frameworks = "UIKit","WebKit" #系统的framework
+
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
-
+  spec.frameworks = "UIKit","WebKit" #系统的framework
   # spec.library   = "iconv"
-  #spec.libraries = "z", "resolv"
+  # spec.libraries = "iconv", "xml2"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -140,6 +134,7 @@ Pod::Spec.new do |spec|
   # spec.requires_arc = true
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
+  # spec.dependency "JSONKit", "~> 1.4"
   spec.dependency "JPush"
 
 end
