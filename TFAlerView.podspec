@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TFAlerView"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.3"
   spec.summary      = "A very powerful iOS message notifications and AlertView extensions."
 
   # This description is used to generate tags and improve search results.
