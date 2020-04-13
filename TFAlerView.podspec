@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TFAlerView"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.4"
   spec.summary      = "A very powerful iOS message notifications and AlertView extensions."
 
   # This description is used to generate tags and improve search results.
@@ -24,9 +24,9 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC
-  It can be easily realized from the top of the screen, the bottom of the screen and the middle of the screen pops up a notification. You can easily customize the pop-up View.
-                   DESC
+  #spec.description  = <<-DESC
+  #It can be easily realized from the top of the screen, the bottom of the screen and the middle of the screen pops up a notification. You can easily customize the pop-up View.
+                   #DESC
 
   spec.homepage     = "https://github.com/Snackstops/TFAlerView"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -39,7 +39,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license      = { :type => 'MIT' }
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -93,9 +93,9 @@ Pod::Spec.new do |spec|
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
-  spec.source_files  = "Classes/#{spec.name}.framework/Headers/*.{h}", "*.{h,m}"
-  spec.vendored_frameworks = "Classes/#{spec.name}.framework"
-  # spec.public_header_files = "Classes/**/*.h"
+  spec.source_files  = 'TFAlerView/TFAlerView.framework/Headers/*.{h}'
+  spec.vendored_frameworks = 'TFAlerView/TFAlerView.framework'
+  spec.public_header_files = "TFAlerView/TFAlerView.framework/Headers/TFAlerView.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -120,7 +120,7 @@ Pod::Spec.new do |spec|
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
-  spec.frameworks = "Foundation","UIKit","AVFoundation","AudioToolbox","SafariServices"
+  spec.frameworks = 'UIKit','Foundation'
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
@@ -131,7 +131,7 @@ Pod::Spec.new do |spec|
   #  where they will only apply to your library. If you depend on other Podspecs
   #  you can include multiple dependencies to ensure it works.
 
-  spec.requires_arc = true
+  #spec.requires_arc = true
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
