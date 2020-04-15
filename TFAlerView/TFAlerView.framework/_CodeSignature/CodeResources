@@ -6,75 +6,19 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		YVC4d7rpoj3Xo+KY6lUoci2gYtQ=
-		</data>
-		<key>Headers/NSString+TFAlerView_Toast.h</key>
-		<data>
-		zDhP0pMX142WF4EDt6fieZogrFA=
+		WabfZ00Hlt7jz0lLk0mlCUbpgeE=
 		</data>
 		<key>Headers/TFAlerView.h</key>
 		<data>
-		lwd9uKKcA9rIoAyBIzEe1RUcEM8=
+		Z4YRY43aKl2N/L8tr6rnw/zdUxQ=
 		</data>
 		<key>Headers/TFAlerView_AlertView.h</key>
 		<data>
 		bJKeH4fD1FhHDc3edSV0oezsLpY=
 		</data>
-		<key>Headers/TFAlerView_BaseToastView.h</key>
-		<data>
-		vsbuXw2JaPFOvTPp9yTGLUS8ucA=
-		</data>
-		<key>Headers/TFAlerView_CAlertView.h</key>
-		<data>
-		YrcB767XNkaaEWjTgIkIzEegV08=
-		</data>
-		<key>Headers/TFAlerView_CButton.h</key>
-		<data>
-		+uSUgICnN/e9t1hAsl9OY0vsDL4=
-		</data>
-		<key>Headers/TFAlerView_CMacros.h</key>
-		<data>
-		gQFd+cyXyu0uzokIZEK7aJnQaMQ=
-		</data>
-		<key>Headers/TFAlerView_CResponder.h</key>
-		<data>
-		domStr8ba2XrmhQispzfTAru6ys=
-		</data>
-		<key>Headers/TFAlerView_CStyleKit.h</key>
-		<data>
-		zVt/1VJof2fqTBuFktmp7rvO8Ho=
-		</data>
-		<key>Headers/TFAlerView_CSwitchView.h</key>
-		<data>
-		KJOfFJiFsZ75tmeDu7zak1r3ok0=
-		</data>
-		<key>Headers/TFAlerView_CTextView.h</key>
-		<data>
-		TS/k3xLw60OyGwIoYXHNMkEA4bQ=
-		</data>
-		<key>Headers/TFAlerView_CTimerDisplay.h</key>
-		<data>
-		zUowBLtcDG8mpjXpJeRiyCFi3aA=
-		</data>
-		<key>Headers/TFAlerView_Config.h</key>
-		<data>
-		VAMQSiqdoOtwmpAq+ntPAIapBf4=
-		</data>
 		<key>Headers/TFAlerView_MaskView.h</key>
 		<data>
 		nD5WrgA2NMc5W3d3yl56VDy/nPw=
-		</data>
-		<key>Headers/TFAlerView_Toast.h</key>
-		<data>
-		KniRPaIJmWPUzYhtFQe1dmqnaCQ=
-		</data>
-		<key>Headers/UIImage+ImageEffects.h</key>
-		<data>
-		fO4NzS0LueEjaf9hzHfRqkZO/1Y=
-		</data>
-		<key>Headers/UIImage+TFAlerView_Toast.h</key>
-		<data>
-		q+pcWexuw5eS+fU6g6DO9RmezEQ=
 		</data>
 		<key>Headers/UIViewController+TFAlerView.h</key>
 		<data>
@@ -82,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0ev3elh/seymygNYZ22xPlZaVGQ=
+		0B4aeuNkpqp8VDqjyEnfkoK+HCM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,33 +39,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YVC4d7rpoj3Xo+KY6lUoci2gYtQ=
+			WabfZ00Hlt7jz0lLk0mlCUbpgeE=
 			</data>
 			<key>hash2</key>
 			<data>
-			yFNg1JNsZeVVAknDCFaxuR0BJpa3m3KjiimNSPEw+LA=
-			</data>
-		</dict>
-		<key>Headers/NSString+TFAlerView_Toast.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zDhP0pMX142WF4EDt6fieZogrFA=
-			</data>
-			<key>hash2</key>
-			<data>
-			UvNUg8Q+twtCMCWL5i0Ob4zunVvTgdVjsXdqy2o2d34=
+			rfDG2Q0DkYzrrk58p2wNwUGNNHystavwQ0czWvdhYSg=
 			</data>
 		</dict>
 		<key>Headers/TFAlerView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lwd9uKKcA9rIoAyBIzEe1RUcEM8=
+			Z4YRY43aKl2N/L8tr6rnw/zdUxQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LTIZ8ev9W1QKq215tXCNSI9AmGJuJ3aTsmuCXGS5k1Y=
+			cgHEaodr2sdYa+lQ1NNEFVy7d+CTVmD2kScxD6QZzhg=
 			</data>
 		</dict>
 		<key>Headers/TFAlerView_AlertView.h</key>
@@ -135,116 +68,6 @@
 			my5a1Ul3mzez/HOy3UL2la4xLLWIoRAoMbn1jeeEB5U=
 			</data>
 		</dict>
-		<key>Headers/TFAlerView_BaseToastView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vsbuXw2JaPFOvTPp9yTGLUS8ucA=
-			</data>
-			<key>hash2</key>
-			<data>
-			1ci+wYRazt3vjmJutWv2OutDaoRkvFJLFciKoMWxtu0=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CAlertView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YrcB767XNkaaEWjTgIkIzEegV08=
-			</data>
-			<key>hash2</key>
-			<data>
-			cTfrk0ya2OUBNiQm8dZG307y8JFzdSyq1v/BzEVSJn0=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CButton.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+uSUgICnN/e9t1hAsl9OY0vsDL4=
-			</data>
-			<key>hash2</key>
-			<data>
-			fNcNFVpUn3Pb2dHg8uh+ROP6G/L2zgJq/NxpD10fEnM=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CMacros.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gQFd+cyXyu0uzokIZEK7aJnQaMQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			sJ/qfG6Q0eFTzBhwu+KspHouIMIFBpAU7vye+1YQvBk=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CResponder.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			domStr8ba2XrmhQispzfTAru6ys=
-			</data>
-			<key>hash2</key>
-			<data>
-			TbmTZ6Kzz97WVmA4q3wBttgVuIJZ8EMN9gmePBsZvLQ=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CStyleKit.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zVt/1VJof2fqTBuFktmp7rvO8Ho=
-			</data>
-			<key>hash2</key>
-			<data>
-			403kjk2RM8lgWfRdd8tb0pWns5vwNi44GxpFweseUBQ=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CSwitchView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KJOfFJiFsZ75tmeDu7zak1r3ok0=
-			</data>
-			<key>hash2</key>
-			<data>
-			gr49T+tau3ERCOUgoNCBcJkw5n3zbJDHFxT+SmRg++8=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CTextView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TS/k3xLw60OyGwIoYXHNMkEA4bQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			BIJHj+3urd1rW8t7/oQef+frzx6ZCjpPnB+5OboVj1w=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_CTimerDisplay.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zUowBLtcDG8mpjXpJeRiyCFi3aA=
-			</data>
-			<key>hash2</key>
-			<data>
-			yiPvMLiP+oHoAMv5grIRTwlVYOlqhqNhp3OZUGYDAV4=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_Config.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VAMQSiqdoOtwmpAq+ntPAIapBf4=
-			</data>
-			<key>hash2</key>
-			<data>
-			omr0tfUEA7qzw58duROe7bagLXX2aiIDQpsA3HZlQQk=
-			</data>
-		</dict>
 		<key>Headers/TFAlerView_MaskView.h</key>
 		<dict>
 			<key>hash</key>
@@ -254,39 +77,6 @@
 			<key>hash2</key>
 			<data>
 			We5J8XNp+KQZ5Ca51vhHKqAPQYTnz+qNP8K2CWKYJRg=
-			</data>
-		</dict>
-		<key>Headers/TFAlerView_Toast.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KniRPaIJmWPUzYhtFQe1dmqnaCQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			HricJRcGgiYJJGgzIr1uHg8ZZplFlUavUSnlS8vqLmk=
-			</data>
-		</dict>
-		<key>Headers/UIImage+ImageEffects.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fO4NzS0LueEjaf9hzHfRqkZO/1Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			BI+m5qmzDnMKE3+7/Ew8t5FxCqxzVAkAViUs7mUwpFM=
-			</data>
-		</dict>
-		<key>Headers/UIImage+TFAlerView_Toast.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q+pcWexuw5eS+fU6g6DO9RmezEQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			V1VbN8js4lIcIvpJKLMrZmomIXOW0WGWQnDfvHIEPrE=
 			</data>
 		</dict>
 		<key>Headers/UIViewController+TFAlerView.h</key>

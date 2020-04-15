@@ -19,23 +19,23 @@ FOUNDATION_EXPORT const unsigned char TFAlerViewVersionString[];
 //Suspension window
 #import <TFAlerView/TFAlerView_AlertView.h>
 #import <TFAlerView/TFAlerView_MaskView.h>
-//CAlertView
-#import <TFAlerView/TFAlerView_CAlertView.h>
-#import <TFAlerView/TFAlerView_CButton.h>
-#import <TFAlerView/TFAlerView_CTextView.h>
-#import <TFAlerView/TFAlerView_CSwitchView.h>
-#import <TFAlerView/TFAlerView_CResponder.h>
-#import <TFAlerView/TFAlerView_CStyleKit.h>
-#import <TFAlerView/UIImage+ImageEffects.h>
-#import <TFAlerView/UIViewController+TFAlerView.h>
-#import <TFAlerView/TFAlerView_CTimerDisplay.h>
-#import <TFAlerView/TFAlerView_CMacros.h>
+////CAlertView
+//#import <TFAlerView/TFAlerView_CAlertView.h>
+//#import <TFAlerView/TFAlerView_CButton.h>
+//#import <TFAlerView/TFAlerView_CTextView.h>
+//#import <TFAlerView/TFAlerView_CSwitchView.h>
+//#import <TFAlerView/TFAlerView_CResponder.h>
+//#import <TFAlerView/TFAlerView_CStyleKit.h>
+//#import <TFAlerView/UIImage+ImageEffects.h>
+//#import <TFAlerView/UIViewController+TFAlerView.h>
+//#import <TFAlerView/TFAlerView_CTimerDisplay.h>
+//#import <TFAlerView/TFAlerView_CMacros.h>
 
 //Top and bottom pop ups
-#import <TFAlerView/TFAlerView_Toast.h>
-#import <TFAlerView/TFAlerView_BaseToastView.h>
-#import <TFAlerView/TFAlerView_Config.h>
-#import <TFAlerView/NSString+TFAlerView_Toast.h>
-#import <TFAlerView/UIImage+TFAlerView_Toast.h>
+//#import <TFAlerView/TFAlerView_Toast.h>
+//#import <TFAlerView/TFAlerView_BaseToastView.h>
+//#import <TFAlerView/TFAlerView_Config.h>
+//#import <TFAlerView/NSString+TFAlerView_Toast.h>
+//#import <TFAlerView/UIImage+TFAlerView_Toast.h>
 
 
