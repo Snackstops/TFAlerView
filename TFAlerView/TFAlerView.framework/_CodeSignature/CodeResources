@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		T9hQmn3BETYZliChpjj9EirpMdA=
+		YVC4d7rpoj3Xo+KY6lUoci2gYtQ=
 		</data>
 		<key>Headers/NSString+TFAlerView_Toast.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FXXudmdpQY/ArKqysrW3PmYHI7M=
+		0ev3elh/seymygNYZ22xPlZaVGQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T9hQmn3BETYZliChpjj9EirpMdA=
+			YVC4d7rpoj3Xo+KY6lUoci2gYtQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DwoxWBP/KXW5xAQczQHdnFkODz8vH6Izj5yViWFfrnk=
+			yFNg1JNsZeVVAknDCFaxuR0BJpa3m3KjiimNSPEw+LA=
 			</data>
 		</dict>
 		<key>Headers/NSString+TFAlerView_Toast.h</key>
